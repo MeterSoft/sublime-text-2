@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Package Control",
+		"ruby-slim.tmbundle",
+		"RubyTest",
+		"Search Anywhere",
+		"SearchInProject"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/LAZY.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".idea",
+		".git",
+		".bundle"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2
+}
